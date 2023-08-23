@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29f7f988.css",
+    "main.js": "/static/js/main.cf9a298f.js",
+    "static/media/Sahil-Shahu-Resume.pdf": "/static/media/Sahil-Shahu-Resume.47d815d281390f106c04.pdf",
+    "static/media/pooja-photo.jpeg": "/static/media/pooja-photo.26b18cf9b5115f5c9dc8.jpeg",
+    "index.html": "/index.html",
+    "main.29f7f988.css.map": "/static/css/main.29f7f988.css.map",
+    "main.cf9a298f.js.map": "/static/js/main.cf9a298f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f7f988.css",
+    "static/js/main.cf9a298f.js"
+  ]
+}
