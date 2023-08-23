@@ -20,7 +20,7 @@ export const Intro = () => {
         <Box className='intro_box'  >
             <Box className='intro_left' data-aos="fade-up" data-aos-duration="1000">
                 <Box data-aos="fade-right" data-aos-duration="1000"> <Text fontSize={["18px", "20px", "22px", "2xl"]} fontWeight={"700"}> Hello It's Me</Text></Box>
-                <Box data-aos="fade-left" data-aos-duration="1000">   <Text fontSize={["23px", "20px", "25px", "4xl"]} fontWeight={"700"} id="user-detail-name">Sahil Shahu</Text></Box>
+                <Box data-aos="fade-left" data-aos-duration="1000">   <Text fontSize={["23px", "20px", "25px", "4xl"]} fontWeight={"700"} id="user-detail-name">Pooja Sharma</Text></Box>
                 <Box data-aos="fade-right" data-aos-duration="1000">   <Text fontSize={["17px", "13px", "17px", "2xl"]} fontWeight={"700"}>And i'm a   <TypedText /> </Text></Box>
                 <Box data-aos="fade-up-right">  <Text className='into_myself' mt={"16px"}
                     id="user-detail-intro">Enthusiastic Human Resources Manager with a passion for managing HR roles and responsibilities</Text>
